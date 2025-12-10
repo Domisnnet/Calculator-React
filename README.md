@@ -69,7 +69,7 @@ Exemplo:
 
 Quer saber como a Calculadora foi construída? Confira o código-fonte no nosso repositório:
 
-[Repositório da Calculadora](https://github.com/Domisnnet/calculadora-em-React) 
+[Repositório da Calculadora](https://github.com/Domisnnet/Calculator-React) 
 
 ---
 
@@ -87,7 +87,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
     </p>
     <ul style="list-style-type: none; padding: 0; margin: 0;">
       <li style="margin-bottom: 10px;">
-           <span style="font-weight: bold; color: #1c7430;">1. 🍴 <a href="https://github.com/Domisnnet/calculadora-em-react/fork" target="_blank" style="color: #1c7430; text-decoration: underline;">Faça um fork</a>:</span> Adicione este projeto ao seu deck.
+           <span style="font-weight: bold; color: #1c7430;">1. 🍴 <a href="https://github.com/Domisnnet/Calculator-React/eact/fork" target="_blank" style="color: #1c7430; text-decoration: underline;">Faça um fork</a>:</span> Adicione este projeto ao seu deck.
       </li>
       <li style="margin-bottom: 10px;">
           <span style="font-weight: bold; color: #1c7430;">2. 🌿 Crie uma branch:</span> Prepare suas atualizações. <a href="https://www.atlassian.com/br/git/tutorials/using-branches" target="_blank" style="color: #1c7430; text-decoration: underline;">Tutorial sobre Branches</a>
@@ -102,7 +102,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
            <span style="font-weight: bold; color: #1c7430;">5. ⚔️ <a href="https://github.com/Domisnnet/calculadora-em-react/compare" target="_blank" style="color: #1c7430; text-decoration: underline;">Abra um Pull Request</a>:</span> Desafie este deck original.
       </li>
       <li>
-           <span style="font-weight: bold; color: #1c7430;">6. 🐛 <a href="https://github.com/Domisnnet/calculadora-em-react/issues" target="_blank" style="color: #1c7430; text-decoration: underline;">Reportar um problema/Sugestão (Issues)</a></span>
+           <span style="font-weight: bold; color: #1c7430;">6. 🐛 <a href="https://github.com/Domisnnet/Calculator-React/issues" target="_blank" style="color: #1c7430; text-decoration: underline;">Reportar um problema/Sugestão (Issues)</a></span>
       </li>
     </ul>
 </div>
@@ -124,7 +124,7 @@ Quer se tornar um mestre no React? Explore estes recursos:
 
 ## 🐛 Encontrou um Bug?
 
-Se você encontrar um bug ou tiver alguma sugestão, por favor, abra uma [Issue](https://github.com/Domisnnet/calculadora-em-React/issues) neste repositório.
+Se você encontrar um bug ou tiver alguma sugestão, por favor, abra uma [Issue](https://github.com/Domisnnet/Calculator-React/issues) neste repositório.
 
 
 Feito com ❤️ por:
