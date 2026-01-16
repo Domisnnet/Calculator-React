@@ -111,7 +111,8 @@ Siga os passos abaixo para fortalecer este projeto:
 
 Analise a estrutura de componentes e hooks:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Calculator-React/tree/main/src)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FCalculator--React-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Calculator-React)
+
 
 ---
 
