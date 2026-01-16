@@ -4,7 +4,7 @@
 ![Tecnologias](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-React/blob/main/LICENSE)
 
-![Preview da Calculadora React](src/img/calculadora.png)
+![Preview da Calculadora React](src/imagens/calculadora.png)
 
 Bem-vindo(a) ao **Universo React**! Este projeto é uma calculadora avançada desenvolvida com **Create React App (CRA)**. Mais do que apenas cálculos, esta aplicação explora conceitos fundamentais da biblioteca, como gerenciamento de estados complexos, hooks de otimização e uma interface moderna e resiliente a erros.
 
@@ -38,7 +38,7 @@ Experimente a calculadora em tempo real clicando no botão abaixo:
 
 <div align="left">
   <a href="https://domisnnet.github.io/Calculator-React/" target="_blank">
-    <img alt="Botão Acessar" src="src/img/botão.webp" height="70" width="70" />
+    <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
 
@@ -81,13 +81,15 @@ No diretório do projeto, você pode executar:
 
 <h2 id="como-contribuir">7. 🤝 Como Contribuir</h2>
 
-Siga os passos para fortalecer este projeto:
+Siga os passos abaixo para fortalecer este projeto:
 
-1.  🍴 **Faça um Fork** deste repositório.
-2.  🌿 **Crie uma branch** (`git checkout -b feature/NovaFuncao`).
-3.  ✍️ **Faça seus commits** (`git commit -m 'feat: add raiz quadrada'`).
-4.  🚀 **Envie para o origin** (`git push origin feature/NovaFuncao`).
-5.  ⚔️ **Abra um Pull Request**.
+| Fase | Ação | Link / Comando |
+| :---: | :--- | :--- |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Calculator-Reat/fork) |
+| **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
+| **03** | **Commit** | `git commit -m 'feat: melhoria na validação de ano'` |
+| **04** | **Push** | `git push origin feature/MinhaMelhoria` |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Calculator-React/compare) |
 
 ---
 
@@ -109,7 +111,7 @@ Siga os passos para fortalecer este projeto:
 
 Analise a estrutura de componentes e hooks:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Calculator-React/tree/main)
+[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Calculator-React/tree/main/src)
 
 ---
 
