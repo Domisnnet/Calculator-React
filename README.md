@@ -1,135 +1,139 @@
+<h2 id="sobre-o-projeto">1. ⚛️ Calculadora Pro: Engenharia Reativa com React ⚛️</h2>
 
-# 🚀 Bem-vindo(a) ao Universo React! ⚛️
+![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
+![Tecnologias](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-React/blob/main/LICENSE)
 
-![Calculadora em React](src/img/iMac-24-1120x630.png)
+![Preview da Calculadora React](src/img/iMac-24-1120x630.png)
 
-Este projeto foi gerado com todo o poder do Create React App (CRA), a ferramenta perfeita para você iniciar sua jornada no React. Prepare-se para criar interfaces incríveis e aplicações web de alto desempenho!
-
-## ✨ Sobre o Projeto:
-
-Este é um projeto calculadora em  React⚛️  que permite realizar operações aritméticas básicas. Utiliza useState para gerenciar o estado e useCallback para otimizar o desempenho. Inclui funcionalidades como adição de dígitos, seleção de operações, limpeza do display e tratamento de erros, exibindo "Erro" em operações inválidas.
-
-Este README fornece informações essenciais para você configurar, executar e contribuir com este projeto.
-
-## 🕹️ Scripts Disponíveis
-
-Dentro do diretório do seu projeto, você pode usar os seguintes comandos mágicos:
-
-### `npm start`
-
-✨ Dê vida à sua aplicação! Este comando inicia o servidor de desenvolvimento e abre o seu projeto no navegador, no endereço [http://localhost:3000](http://localhost:3000).
-
-As mudanças que você fizer no código serão recarregadas automaticamente na sua tela (hot-reloading).
-
-Fique de olho no console, ele pode te dar pistas importantes com avisos e erros.
-
-### `npm test`
-
-🧪 Hora de testar! Este comando executa o seu conjunto de testes interativamente (Jest + React Testing Library), facilitando a identificação de problemas e garantindo a qualidade do seu código.
-
-Quer saber mais sobre testes? A [documentação do Jest](https://jestjs.io/docs/getting-started) e da [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) são suas amigas!
-
-### `npm run build`
-
-📦 Prepare sua obra-prima para o mundo! Este comando cria uma versão otimizada do seu projeto para produção, colocando tudo dentro da pasta `build`.
-
-Ele junta todo o código React de forma eficiente, minifica arquivos (CSS, JavaScript) e otimiza imagens, deixando tudo pronto para um desempenho incrível.
-
-Seu aplicativo está pronto para ser lançado! Consulte a seção [Deploy](#-deploy) para mais informações.
-
-### `npm run eject`
-
-🚨 Atenção: Caminho sem volta! Use este comando com sabedoria, pois ele é uma operação única e irreversível.
-
-Se você quer ter controle total sobre a configuração da sua aplicação (Webpack, Babel, ESLint, etc.), `eject` é o seu aliado.
-
-Ele copia todos os arquivos de configuração do `create-react-app` para o seu projeto, permitindo que você personalize tudo.
-
-**Depois de `eject`, você assume o controle total, e não há como voltar atrás!** Atualizações futuras do `create-react-app` não serão aplicadas automaticamente.
-
-Para a maioria dos projetos, a configuração padrão do Create React App já é ótima. Use com moderação e apenas se você realmente precisar personalizar a configuração.
-
-## 🛠️ Configuração Adicional (Opcional)
-
-[Adicione aqui se o seu projeto requer alguma configuração extra. Por exemplo: variáveis de ambiente, chaves de API, configuração de banco de dados, etc.]
-
-Exemplo:
-
-*   **Variáveis de Ambiente:**
-    Crie um arquivo `.env` na raiz do projeto e adicione as seguintes variáveis:
-
-    ```
-    REACT_APP_API_KEY=sua_chave_api
-    REACT_APP_API_URL=https://api.exemplo.com
-    ```
-
-    Lembre-se de reiniciar o servidor de desenvolvimento (`npm start`) após modificar o arquivo `.env`.
-
-## 💻 Código Aberto
-
-Quer saber como a Calculadora foi construída? Confira o código-fonte no nosso repositório:
-
-[Repositório da Calculadora](https://github.com/Domisnnet/Calculator-React) 
+Bem-vindo(a) ao **Universo React**! Este projeto é uma calculadora avançada desenvolvida com **Create React App (CRA)**. Mais do que apenas cálculos, esta aplicação explora conceitos fundamentais da biblioteca, como gerenciamento de estados complexos, hooks de otimização e uma interface moderna e resiliente a erros.
 
 ---
 
-## 📝 Licença:
+## 📚 Tabela de Conteúdo
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+| ⚛️ O Projeto | 🛠️ Técnico | 🤝 Comunidade |
+| :---: | :---: | :---: |
+| [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre-o-projeto) | [![5. Destaques](https://img.shields.io/badge/5%20-%20Destaques-607D8B)](#destaques-tecnicos) | [![9. Código](https://img.shields.io/badge/9%20-%20Código-795548)](#codigo-fonte) |
+| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Scripts](https://img.shields.io/badge/6%20-%20Scripts-009688)](#scripts-disponiveis) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
+| [![3. Acessar](https://img.shields.io/badge/3%20-%20Acessar-FF9800)](#como-acessar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
+| [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
 
 ---
 
-## 🤝 Contribuição:
+<h2 id="tecnologias-utilizadas">2. ⚙️ Tecnologias Utilizadas</h2>
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; border: 2px solid #222;">
-    <p style="margin-bottom: 10px; font-weight: bold; color: #0056b3; text-align: center;">
-      <span style="display:inline-block; margin-right: 5px;"> 👐 </span> Siga os passos para fortalecer este deck:
-    </p>
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li style="margin-bottom: 10px;">
-           <span style="font-weight: bold; color: #1c7430;">1. 🍴 <a href="https://github.com/Domisnnet/Calculator-React/eact/fork" target="_blank" style="color: #1c7430; text-decoration: underline;">Faça um fork</a>:</span> Adicione este projeto ao seu deck.
-      </li>
-      <li style="margin-bottom: 10px;">
-          <span style="font-weight: bold; color: #1c7430;">2. 🌿 Crie uma branch:</span> Prepare suas atualizações. <a href="https://www.atlassian.com/br/git/tutorials/using-branches" target="_blank" style="color: #1c7430; text-decoration: underline;">Tutorial sobre Branches</a>
-      </li>
-      <li style="margin-bottom: 10px;">
-          <span style="font-weight: bold; color: #1c7430;">3. ✍️ Prepare seus commits:</span> Guarde suas mudanças. <a href="https://www.atlassian.com/br/git/tutorials/saving-changes/git-commit" target="_blank" style="color: #1c7430; text-decoration: underline;">Tutorial sobre Commits</a>
-      </li>
-     <li style="margin-bottom: 10px;">
-          <span style="font-weight: bold; color: #1c7430;">4. 🚀 Envie:</span> Lance sua sugestão (`git push origin minha-contribuicao`).
-      </li>
-      <li>
-           <span style="font-weight: bold; color: #1c7430;">5. ⚔️ <a href="https://github.com/Domisnnet/calculadora-em-react/compare" target="_blank" style="color: #1c7430; text-decoration: underline;">Abra um Pull Request</a>:</span> Desafie este deck original.
-      </li>
-      <li>
-           <span style="font-weight: bold; color: #1c7430;">6. 🐛 <a href="https://github.com/Domisnnet/Calculator-React/issues" target="_blank" style="color: #1c7430; text-decoration: underline;">Reportar um problema/Sugestão (Issues)</a></span>
-      </li>
-    </ul>
+| Camada | Tecnologia | Descrição |
+| :--- | :--- | :--- |
+| **Framework** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Biblioteca base para construção da UI. |
+| **Estado** | `useState` | Gerenciamento dinâmico dos valores do display. |
+| **Performance** | `useCallback` | Otimização de funções para evitar renderizações desnecessárias. |
+| **Ambiente** | `Create React App` | Ferramenta de configuração e build otimizado. |
+
+---
+
+<h2 id="como-acessar">3. 🚀 Como Acessar</h2>
+
+Experimente a calculadora em tempo real clicando no botão abaixo:
+
+<div align="left">
+  <a href="https://domisnnet.github.io/Calculator-React/" target="_blank">
+    <img alt="Botão Acessar" src="src/img/botão.webp" height="70" width="70" />
+  </a>
 </div>
 
 ---
 
-## 📚 Mergulhe Mais Fundo
+<h2 id="funcionalidades">4. 🧩 Funcionalidades Principais</h2>
 
-Quer se tornar um mestre no React? Explore estes recursos:
+| Funcionalidade | Descrição |
+| :--- | :--- |
+| ➕ **Operações Aritméticas** | Soma, subtração, multiplicação e divisão precisas. |
+| ⚡ **Hot-Reloading** | Desenvolvimento ágil com atualizações instantâneas. |
+| 🧹 **Clear Display** | Limpeza completa do estado da calculadora. |
+| 🛑 **Tratamento de Erros** | Exibição visual de "Erro" para operações matemáticas inválidas. |
+| 🧪 **Test-Ready** | Estrutura preparada para testes com Jest e RTL. |
 
-*   [Documentação do Create React App](https://create-react-app.dev/docs/getting-started)
-*   [Documentação do React](https://reactjs.org/docs/getting-started.html)
-*   [Código Splitting](https://reactjs.org/docs/code-splitting.html)
-*   [Analisando o Tamanho do Pacote](https://create-react-app.dev/docs/analyzing-the-bundle-size/)
-*   [Making a Progressive Web App](https://create-react-app.dev/docs/making-a-progressive-web-app/)
-*   [Configurações Avançadas](https://create-react-app.dev/docs/advanced-configuration/)
-*   [Deploy](https://create-react-app.dev/docs/deployment/)
-*   [Solução para Problemas com Build](https://create-react-app.dev/docs/troubleshooting/)
+---
 
-## 🐛 Encontrou um Bug?
+<h2 id="destaques-tecnicos">5. 💻 Destaques Técnicos</h2>
 
-Se você encontrar um bug ou tiver alguma sugestão, por favor, abra uma [Issue](https://github.com/Domisnnet/Calculator-React/issues) neste repositório.
+A engenharia deste projeto foca na robustez e performance:
 
+### 📐 Otimização com useCallback
+Diferente de calculadoras simples, aqui as funções de clique são memorizadas para garantir que a aplicação mantenha 60 FPS mesmo em interações rápidas, evitando *re-renders* de componentes pesados.
 
-Feito com ❤️ por:
+### 🔄 Fluxo de Estado Único
+O gerenciamento centralizado do estado permite uma transição fluida entre números e operadores, tratando o encadeamento de operações complexas de forma lógica.
+
+---
+
+<h2 id="scripts-disponiveis">6. 📂 Scripts Disponíveis</h2>
+
+No diretório do projeto, você pode executar:
+
+* **`npm start`**: Inicia o servidor em [http://localhost:3000](http://localhost:3000).
+* **`npm test`**: Executa os testes unitários.
+* **`npm run build`**: Gera a versão de produção na pasta `build`.
+* **`npm run eject`**: Permite controle total das configurações (irreversível).
+
+---
+
+<h2 id="como-contribuir">7. 🤝 Como Contribuir</h2>
+
+Siga os passos para fortalecer este projeto:
+
+1.  🍴 **Faça um Fork** deste repositório.
+2.  🌿 **Crie uma branch** (`git checkout -b feature/NovaFuncao`).
+3.  ✍️ **Faça seus commits** (`git commit -m 'feat: add raiz quadrada'`).
+4.  🚀 **Envie para o origin** (`git push origin feature/NovaFuncao`).
+5.  ⚔️ **Abra um Pull Request**.
+
+---
+
+<h2 id="faq">8. 🧠 Perguntas Frequentes</h2>
+
+<details>
+<summary><strong>Como lidar com variáveis de ambiente ❓</strong></summary>
+<p>🔑 <strong>Resposta:</strong> Crie um arquivo <code>.env</code> na raiz e adicione variáveis começando com <code>REACT_APP_</code> para que o React as reconheça.</p>
+</details>
+
+<details>
+<summary><strong>A calculadora aceita casas decimais ❓</strong></summary>
+<p>🔢 <strong>Resposta:</strong> Sim, o estado trata a entrada de pontos decimais e realiza os cálculos utilizando o motor matemático do JavaScript.</p>
+</details>
+
+---
+
+<h2 id="codigo-fonte">9. 💻 Código Fonte</h2>
+
+Analise a estrutura de componentes e hooks:
+
+[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Calculator-React/tree/main)
+
+---
+
+<h2 id="créditos">10. 📝 Créditos & Reconhecimentos</h2>
+
+A Calculadora React é um marco no estudo de interfaces modernas:
+
+| Atribuição | Responsável / Recurso | Descrição |
+| :--- | :--- | :--- |
+| **Dev React** | **DomisDev** | Implementação de lógica, estados e otimização. |
+| **Build Tool** | **Meta / CRA** | Ferramentas de infraestrutura e bundling. |
+| **Apoio Técnico** | **Google Gemini** | Padronização King-Domfy e refinamento documental. |
+
+---
+
+<h2 id="licenca">11. 📄 Licença</h2>
+
+Este projeto está sob a [MIT License](LICENSE).
+
+---
+
+<h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
 <a href="https://github.com/Domisnnet">
-    <img src="src/img/DomisDev.png" width="60px" height="60px" alt="Acessar perfil GitHub">
-    DomisDev
+    <img src="https://github.com/Domisnnet.png" width="100px" style="border-radius: 50%" alt="Acessar perfil GitHub">
+    <br><strong>DomisDev</strong>
 </a>
