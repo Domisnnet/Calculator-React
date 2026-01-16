@@ -4,7 +4,7 @@
 ![Tecnologias](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-React/blob/main/LICENSE)
 
-![Preview da Calculadora React](src/img/iMac-24-1120x630.png)
+![Preview da Calculadora React](src/img/calculadora.png)
 
 Bem-vindo(a) ao **Universo React**! Este projeto é uma calculadora avançada desenvolvida com **Create React App (CRA)**. Mais do que apenas cálculos, esta aplicação explora conceitos fundamentais da biblioteca, como gerenciamento de estados complexos, hooks de otimização e uma interface moderna e resiliente a erros.
 
@@ -127,7 +127,7 @@ A Calculadora React é um marco no estudo de interfaces modernas:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está sob a [MIT License](LICENSE).
+Este projeto está sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-React/blob/main/LICENSE)
 
 ---
 
