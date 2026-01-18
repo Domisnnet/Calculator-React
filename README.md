@@ -1,4 +1,4 @@
-<h2 id="sobre-o-projeto">1. ⚛️ Calculadora Pro: Engenharia Reativa com React ⚛️</h2>
+<h2 id="sobre-o-projeto">1. Calculadora Pro: Engenharia Reativa com React ⚛️</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
