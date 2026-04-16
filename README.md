@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Calculator-React?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Calculator-React?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Calculator-React?style=for-the-badge)
+
+
 <h2 id="sobre-o-projeto">1. Calculadora Pro: Engenharia Reativa com React ⚛️</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
@@ -72,7 +77,7 @@ O gerenciamento centralizado do estado permite uma transição fluida entre núm
 
 No diretório do projeto, você pode executar:
 
-* **`npm start`**: Inicia o servidor em [http://localhost:3000](http://localhost:3000).
+* **`npm start`**: Inicia o servidor em ![http://localhost:3000](http://localhost:3000).
 * **`npm test`**: Executa os testes unitários.
 * **`npm run build`**: Gera a versão de produção na pasta `build`.
 * **`npm run eject`**: Permite controle total das configurações (irreversível).
@@ -89,7 +94,13 @@ Siga os passos abaixo para fortalecer este projeto:
 | **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
 | **03** | **Commit** | `git commit -m 'feat: melhoria na validação de ano'` |
 | **04** | **Push** | `git push origin feature/MinhaMelhoria` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Calculator-React/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Calculator-React/compare)
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Calculator-React/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Calculator-React/issues/new)
 
 ---
 
