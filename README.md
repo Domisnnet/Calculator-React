@@ -2,10 +2,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Calculator-React?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Calculator-React?style=for-the-badge)
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 2d91240a56eb017e3e3e394c1790c61257da493a
 <h2 id="sobre-o-projeto">1. Calculadora Pro: Engenharia Reativa com React ⚛️</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
