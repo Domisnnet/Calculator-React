@@ -42,7 +42,7 @@ Bem-vindo(a) ao **Universo React**! Este projeto é uma calculadora avançada de
 Experimente a calculadora em tempo real clicando no botão abaixo:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/Calculator-React/" target="_blank">
+  <a href="https://calculator-react-2442973-c30be.web.app/" target="_blank">
     <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
