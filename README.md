@@ -122,8 +122,8 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Analise a estrutura de componentes e hooks:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FCalculator--React-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Calculator-React)
-
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+[![Repositório](https://img.shields.io/badge/Acessar%20Projeto-Domisnnet%2FCalculator--React-61DAFB?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Calculator-React)
 
 ---
 
