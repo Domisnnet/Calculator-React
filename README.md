@@ -77,7 +77,7 @@ O gerenciamento centralizado do estado permite uma transição fluida entre núm
 
 No diretório do projeto, você pode executar:
 
-* **`npm start`**: Inicia o servidor em ![http://localhost:3000](http://localhost:3000).
+* **`npm start`**: Inicia o servidor em: http://localhost:3000(http://localhost:3000).
 * **`npm test`**: Executa os testes unitários.
 * **`npm run build`**: Gera a versão de produção na pasta `build`.
 * **`npm run eject`**: Permite controle total das configurações (irreversível).
@@ -123,7 +123,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 Analise a estrutura de componentes e hooks:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-[![Repositório](https://img.shields.io/badge/Acessar%20Projeto-Domisnnet%2FCalculator--React-61DAFB?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Calculator-React)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FCalculator--React-61DAFB?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Calculator-React)
 
 ---
 
